@@ -1,0 +1,30 @@
+_repo: The-Captain-s-BunkA-Story-for-Boys_26714
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26714-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Manwell, M. B.
+    gutenberg_agent_id: '31356'
+    url: http://www.gutenberg.org/2009/agents/31356
+description: ''
+gutenberg_issued: '2008-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Dysfunctional families -- Juvenile fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Fishing villages -- Juvenile fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PZ'
+title: 'The Captain''s Bunk
+
+  A Story for Boys'
+url: http://www.gutenberg.org/ebooks/26714
